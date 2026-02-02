@@ -8,6 +8,7 @@ from uuid import UUID, uuid4
 from decimal import Decimal
 from enum import Enum
 
+'''USable not needed'''
 from app.models.user import User
 from app.models.product import Product
 
